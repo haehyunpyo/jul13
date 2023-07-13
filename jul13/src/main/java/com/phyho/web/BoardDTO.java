@@ -14,8 +14,6 @@ public class BoardDTO {
 		this.blike = blike;
 	}
 	
-	
-	
 	public int getBno() {
 		return bno;
 	}

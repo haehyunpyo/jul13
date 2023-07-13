@@ -8,7 +8,7 @@
 <link href="./css/board.css" rel="stylesheet">
 </head>
 <body>
-	 
+
 	 <table>
 	 	<thead>
 	 	<tr>
@@ -50,12 +50,6 @@
 	 
 	 <hr>
 	 ${list2 }
-	 
-	 
-	 
-	 
-	 
-	 
 	 
 	 
 </body>
